@@ -132,7 +132,7 @@ function createGraph(balances) {
 
     // Settings for the graph
     var layout = {
-        title: 'ETH Balance over Ethereum Blocks',
+        title: 'Historical IND ETH Balances',
         xaxis: {
             autorange: true,
             rangeslider: {},
